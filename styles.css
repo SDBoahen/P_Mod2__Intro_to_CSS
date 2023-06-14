@@ -1,0 +1,19 @@
+body {
+    color: red;
+
+    background-color: aqua;
+}
+
+h1 {
+    color:chartreuse
+}
+
+
+p {
+    text-align: center;
+    background-color: pink;
+
+    border: 10px solid red;
+    /* border: solid;
+    border-width: 100px; */
+}
